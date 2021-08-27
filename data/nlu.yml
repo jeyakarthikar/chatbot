@@ -79,6 +79,7 @@ nlu:
     - so sad
     - i am not feeling well
     - exhausted
+    - i am feeling low
 - intent: bot_challenge
   examples: |
     - are you a bot?
